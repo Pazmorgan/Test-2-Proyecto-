@@ -1,0 +1,4 @@
+1º creamos el remoto y lo descargamos para el local, para ello debemos usar el Gitclone y ponerlo en nuestra carpeta de trabajo. 
+2º Con el Gitadd, añadimos los 2 cambios realizados en la carpeta con el Gitadd A-.
+3º Una vez esten marcados con el anterior comando, nos disponemos a usar el Gitcommit-m para especificar que cambio se ha realizado y una pequeña descripcion del mismo.
+4º Pusheamos el archivo completo al remoto para actualizarlo.

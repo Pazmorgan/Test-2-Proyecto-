@@ -4,3 +4,4 @@
 4º Pusheamos con el comando Gitpush el archivo completo al remoto para actualizarlo.
 5º Una vez este en el remoto, manipulamos el archivo de texto desde el remotoy por ultimo vemos si hay cambios en el propio local y hacemos uso de nuevo del comando Gitcommit-m-
 6º He hecho un Gitpull para actualizar/coger los cambios realizados que solo estaban en el remoto.
+7º Se repiten los pasos de Gitadd,Gitcommit-m y por ultimo un Gitpush al remoto.
